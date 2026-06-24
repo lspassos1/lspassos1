@@ -2,7 +2,7 @@
 
 # Lucas Passos
 
-### Builder — application security · OSINT & intelligence dashboards · geospatial data viz
+### Full-stack engineer — application security · OSINT & intelligence dashboards · geospatial data viz
 
 [Mapa da Violência Brasil](https://mapa-da-violencia-brasil.vercel.app) · [GitHub](https://github.com/lspassos1)
 
@@ -46,6 +46,6 @@ TypeScript, Next.js, React, Node.js, Protocol Buffers / typed RPC, PostgreSQL / 
 ---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lspassos1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF" width="48%" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=lspassos1&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF" width="48%" alt="GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lspassos1&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&langs_count=8" width="48%" alt="Top languages" />
 </div>

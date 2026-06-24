@@ -2,7 +2,7 @@
 
 # Lucas Passos
 
-### Full-stack engineer — application security · OSINT & intelligence dashboards · geospatial data viz
+### Builder — application security · OSINT & intelligence dashboards · geospatial data viz
 
 [Mapa da Violência Brasil](https://mapa-da-violencia-brasil.vercel.app) · [GitHub](https://github.com/lspassos1)
 
